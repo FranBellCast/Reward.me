@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Reward.me</string>
+    <string name="nombre_inicio">Reward.me</string>
+    <string name="boton1_inicio">Log In</string>
+    <string name="boton2_inicio">Registro</string>
+    <string name="texto1_login">Ingresa tus datos</string>
+    <string name="email_login">Tu Email</string>
+    <string name="pass_login">Tu Contraseña</string>
+    <string name="boton_login">Ingresar</string>
+    <string name="texto1_registro">Ingresa tus datos para el registro</string>
+    <string name="nombre_registro">Nombre</string>
+    <string name="email_registro">Email</string>
+    <string name="pass_registro">Contraseña</string>
+    <string-array name="perfiles">
+        <item>Padre/Madre</item>
+        <item>Hijo/Hija</item>
+    </string-array>
+    <string name="boton1_registro">Siguiente</string>
+    <string name="imagen_inicio">Logo de la aplicación reward.me</string>
+</resources>
